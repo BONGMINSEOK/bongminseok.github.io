@@ -1,15 +1,13 @@
-## Welcome to GitHub Pages
+## 봉민석 블로그
 
-You can use the [editor on GitHub](https://github.com/BONGMINSEOK/bongminseok.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+안녕하세요! 정보보호 전문가를 꿈꾸고 있는 봉민석입니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 활동
 
 ```markdown
-Syntax highlighted code block
+조선대학교 컴퓨터공학과 (2016 ~)
+조선대학교 해커로그인 (2016 ~)
 
 # Header 1
 ## Header 2
